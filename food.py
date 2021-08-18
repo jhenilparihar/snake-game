@@ -21,7 +21,7 @@ class Food(Turtle):
         if 10 - x_round <= 5:
             x_cor = x_cor + (10 - x_round)
         else:
-            x_cor = x_cor - (10 - (10 - x_round))
+            x_cor = x_cor - (1 - (10 - x_round))
 
         if 10 - y_round <= 5:
             y_cor = y_cor + (10 - y_round)
