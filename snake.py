@@ -1,4 +1,5 @@
 from turtle import Turtle, Screen
+
 screen = Screen()
 screen.tracer(0)
 UP = 90
