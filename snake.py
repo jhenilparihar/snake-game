@@ -12,7 +12,7 @@ position = [(0, 0), (-10, 0), (-20, 0)]
 class Snake:
 
     def __init__(self):
-        self.snake = [
+        self.snake = []
         self.create_snake()
         self.head = self.snake[0]
 
