@@ -7,4 +7,9 @@ Cool snake game in python using object-oriented programming with scoreboard and 
 
 To play game run main file.
 
+### How to run it
+```
+python main.py
+```
+
 #### Don't forget to give a star to this repository.
