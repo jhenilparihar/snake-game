@@ -12,4 +12,4 @@ To play game run main file.
 python main.py
 ```
 
-#### Don't forget to give a star to this repository.
+#### Give a star to this repository.
